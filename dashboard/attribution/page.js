@@ -6,7 +6,7 @@ export default function Attribution() {
       <a href="https://www.frontendmentor.io?ref=challenge" target="_blank">
         Frontend Mentor
       </a>
-      . Coded by <a href="#">Uuam.c</a>.
+      . Coded by <a href="https://github.com/uuam">Uuam.c</a>.
     </div>
   );
 }
