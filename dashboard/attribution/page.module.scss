@@ -1,0 +1,18 @@
+.attribution {
+  color: $white;
+  font-family: inherit;
+  letter-spacing: 1px;
+  font-size: small;
+
+  a{
+    font-style: italic;
+    color: $grey;
+    font-size: small;
+  }
+}
+
+@media (max-width: 540px) {
+  .attribution {
+    color: $charcoal;
+  }
+}

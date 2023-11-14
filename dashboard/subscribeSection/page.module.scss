@@ -1,0 +1,24 @@
+section.subscribeEmail {
+  max-width: 63vw;
+  padding: 2rem;
+  border-radius: 1.875rem;
+  display: flex;
+  margin: 5rem auto;
+  background-color: #fff;
+  box-sizing: border-box;
+  width: 65rem;
+  height: 40rem;
+}
+
+
+@media (max-width: 540px) {
+  section.subscribeEmail {
+    margin: 0 auto;
+    padding: 0;
+    flex-direction: column-reverse;
+    max-width: 100vw;
+    border-radius: 0;
+    max-height: 100vh;
+    height: 100%;
+  }
+}
