@@ -1,0 +1,28 @@
+@charset "UTF-8";
+.rightPart {
+  max-width: 30rem;
+  flex-direction: row;
+  justify-content: flex-end;
+  display: flex;
+  margin-left: 1rem;
+}
+.rightPart img {
+  width: 100%;
+  height: auto;
+}
+
+@media (max-width: 540px) {
+  .rightPart {
+    display: block;
+    max-width: 100vw;
+    margin-left: 0;
+  }
+  .rightPart div {
+    width: 100%;
+  }
+  .rightPart div img {
+    max-width: 100%;
+    display: block; /* 確保圖片不會有任何未使用的空間或行高影響 */
+    height: auto;
+  }
+}/*# sourceMappingURL=page.module.css.map */
