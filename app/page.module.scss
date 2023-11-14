@@ -1,0 +1,19 @@
+.main {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+  padding: 6rem;
+  min-height: 100vh;
+}
+
+
+@media (max-width: 540px) {
+  .main{
+    padding: 0;
+  }
+}
+  .close {
+    display: none !important;
+  }
+
