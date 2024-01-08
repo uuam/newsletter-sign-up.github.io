@@ -1,7 +1,7 @@
 # Frontend Mentor - Newsletter sign-up form with success message [🔗](https://newsletter-sign-up-github-io.vercel.app/)
 簡易電子郵件訂閱
 
-[點及前往](https://newsletter-sign-up-github-io.vercel.app/)
+[點擊前往](https://newsletter-sign-up-github-io.vercel.app/)
 
 ## 特點
 這個專案具有以下一些特點：
